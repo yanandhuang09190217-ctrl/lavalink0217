@@ -3,13 +3,9 @@ server:
 
 lavalink:
   server:
-    password: ${LAVALINK_PASSWORD}
+    password: "JQK3689"
     sources:
       youtube: true
       soundcloud: true
       http: true
       local: false
-    bufferDurationMs: 400
-    frameBufferDurationMs: 1000
-    opusEncodingQuality: 10
-    resamplingQuality: HIGH
